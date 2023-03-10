@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "my-emoji-app",
+    "slug": "my-emoji-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "my-emoji-app"
+}
